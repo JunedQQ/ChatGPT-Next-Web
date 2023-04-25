@@ -95,6 +95,7 @@ export function SideBar(props: { className?: string }) {
           提示未授权需填写ChatGPT账号key，ChatGPT账号购买网址：
           <a href="http://mumushop.top">http://mumushop.top</a>
         </div>
+        <div className={styles["sidebar-sub-title"]}>客服QQ：3024847326</div>
         <div className={styles["sidebar-logo"]}>
           <ChatGptIcon />
         </div>
